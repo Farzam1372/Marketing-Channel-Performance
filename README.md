@@ -1,6 +1,4 @@
 # Data Science Challenge
-Welcome to the HAMS Data Science Challenge! With this challenge we want to test your ability to build advanced probabilistic data models and to interpret their results.
-
 # Task
 The challenge is set in the context of performance marketing and we want you to apply a bayesian mixed-media model (MMM) on our test dataset an interpret the insights from the model. Build the MMM with the latest PyMC package (https://www.pymc.io/).
 
