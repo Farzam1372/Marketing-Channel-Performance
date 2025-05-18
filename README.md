@@ -6,14 +6,7 @@ We have a company X which runs an online shop. X advertises on seven different p
 
 This is of course the perfect setting for an ambitious Data Scientist. ;-) Modelling the uncertainty and the delayed effects is of course key. We are working heavily with Bayesian models and would like here to test your understanding and approaches in this setting.
 
-# Some hints
-You will need to model the spend carry over effect (adstock).
-No need (for now) to overcomplicate the adstock shape effects with saturation or diminishing returns.
-Seasonality & trend might be interesting to be included in your model.
-Dataset MMM_test_data.csv
-start_of_week: first day of the week
-revenue: revenue generated in this week from sales
-spend_channel_1..7: marketing cost spend in this week in channel 1..7
+
 # Questions
 How do you model spend carry over?
 Explain your choice of prior inputs to the model?
